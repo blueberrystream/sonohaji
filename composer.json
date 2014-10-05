@@ -1,0 +1,8 @@
+{
+  "require" : {
+    "ext-mbstring": "*",
+    "ext-gd": "*"
+  },
+  "require-dev": {
+  }
+}
