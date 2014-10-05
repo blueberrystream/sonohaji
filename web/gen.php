@@ -61,7 +61,7 @@ function calc($W, $H, $size, $text) {
         if ($w <= $W && $h <= $H) {
             $reculc = false;
 
-            $x = (int) (($W - $w) / 2);
+            $x = 0;//(int) (($W - $w) / 2);
             $y = (int) (($H - $h) / 2) + $h - $bbox[1];
         } else {
             // フォントサイズを2小さくして再計算
