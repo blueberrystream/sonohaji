@@ -28,7 +28,7 @@ if ($_POST['font'] === 'm') {
 }
 
 // draw text
-drawText('nyaan', 600, 68, 0, 0, 32);
+drawText('nyaan', 430, 73, 364, 75, 32);
 
 // put image
 imagepng($image);
