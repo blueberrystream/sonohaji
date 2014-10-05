@@ -1,7 +1,7 @@
 <?php
-define('SESSION_VALUE', 'ヒャッハー');
+define('SESSION_VALUE', 'にゃーん');
 
-define('TEMPLATE_IMAGE_FILE', '../static/image/template.png');
+define('TEMPLATE_IMAGE_FILE', './image/template.png');
 
-define('MINCHO_FONT_FILE', '../static/ttf/IPAexfont00201/ipaexm.ttf');
-define('GOTHIC_FONT_FILE', '../static/ttf/IPAexfont00201/ipaexg.ttf');
+define('MINCHO_FONT_FILE', './ttf/IPAexfont00201/ipaexm.ttf');
+define('GOTHIC_FONT_FILE', './ttf/IPAexfont00201/ipaexg.ttf');
